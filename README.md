@@ -1,1 +1,1 @@
-# coursera-it-automation-with-python
+# Automation with python
